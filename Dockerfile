@@ -7,4 +7,4 @@ RUN pip install -r requirements.txt
 
 COPY . .
 
-CMD ["python", "test_yaml.py"]
+CMD ["python", "main.py"]
